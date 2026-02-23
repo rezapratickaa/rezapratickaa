@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'm Reza
 
-<!--
-**rezapratickaa/rezapratickaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Mobile App Developer** | Flutter Enthusiast  
+🎓 Graduate of SMK Negeri 1 Banyuwangi (RPL / PPLG)  
+🚀 Passionate about building modern, clean, and scalable applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔭 I’m currently working on mobile app projects using **Flutter**
+- 🌱 I’m currently learning **Next.js, TypeScript, and Backend Development**
+- 👯 I’m looking to collaborate on **mobile & web development projects**
+- 💬 Ask me about **Flutter, UI Design, and Mobile App Development**
+- ⚡ Fun fact: I started coding in vocational high school and never stopped improving since then
+
+---
+
+### 🛠️ Tech Stack
+- 📱 Flutter & Dart  
+- 🌐 HTML, CSS, JavaScript  
+- ⚛️ React & Next.js  
+- 🛢️ PHP & MySQL  
+- 🎨 UI/UX Implementation from Figma  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezapratickaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezapratickaa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: your-email@example.com  
+- 🌍 Portfolio: Coming Soon  
+
+---
+
+⭐️ From [rezapratickaa](https://github.com/rezapratickaa)
