@@ -25,12 +25,12 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark
         
-      # 2. Generate Pacman Animation with Dark Theme
+      # 2. Generate Pacman Animation with Hardcoded Dark Theme
       - name: generate pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: github-dark
+          theme: github-dark-modern
           
       # 3. Push outputs to 'output' branch
       - name: push outputs to branch
