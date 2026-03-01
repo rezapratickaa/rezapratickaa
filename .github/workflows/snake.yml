@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the main branch
   push:
     branches:
     - main
@@ -23,21 +18,21 @@ jobs:
     
     steps:
       # 1. Generate Snake Animation
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark
         
-      # 2. Generate Pacman Animation
-      - name: generate pacman-contribution-graph
+      # 2. Generate Pacman Animation with Dark Theme
+      - name: generate pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: github-dark
           
-      # 3. Push outputs to branch
+      # 3. Push outputs to 'output' branch
       - name: push outputs to branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

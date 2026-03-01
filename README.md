@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Moch Reza Practika</h1>
   <p><i>Building modern, scalable & high-performance web applications</i></p>
-
-  <img src="https://hits.dwyl.com/rezapratickaa/rezapratickaa.svg?style=for-the-badge&color=22D3EE" alt="Hits" />
-
+  
   <br/><br/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Engineer;Next.js+%7C+TypeScript;UI%2FUX+Enthusiast;Clean+Code+Practitioner" />
@@ -74,5 +72,5 @@
   <br/><br/>
   
   <h4>🐍 Snake Mode</h3>
-  <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/snake-dark.svg" alt="Snake Animation" />
 </div>
