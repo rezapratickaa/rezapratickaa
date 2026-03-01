@@ -1,47 +1,47 @@
 <div align="center">
   <h1>Hi 👋, I'm Moch Reza Practika</h1>
-  <p><i>Website Developer | Frontend & Backend Engineer</i></p>
+  <p><i>Building modern, scalable & high-performance web applications</i></p>
 
-  <img src="https://hits.dwyl.com/rezapratickaa/rezapratickaa.svg?style=for-the-badge&color=22D3EE" alt="Hits" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Engineer;Next.js+%7C+TypeScript;UI%2FUX+Enthusiast;Clean+Code+Practitioner" />
+</div>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Apps;Next.js+%7C+TypeScript;UI%2FUX+Enthusiast;Clean+Code+Practitioner" />
+### � Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+
+---
+
+### 📊 GitHub Statistics
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rezapratickaa&show_icons=true&theme=dracula&hide_border=true&title_color=22D3EE&icon_color=22D3EE" height="170" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezapratickaa&layout=compact&theme=dracula&hide_border=true&title_color=22D3EE" height="170" alt="Top Langs" />
+  </p>
+  
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=rezapratickaa&theme=dracula&hide_border=true&stroke=22D3EE" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+### � Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,mysql,figma,git,vscode,tailwind,laravel,bootstrap&theme=dark" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Working on **modern website development**
-- 🌱 Mastering **Next.js & TypeScript**
-- 💬 Ask me about **Frontend, UI/UX & Clean Code**
-- ⚡ Passionate about **performance & responsive design**
-
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,mysql,figma,git,vscode,tailwind,laravel,bootstrap&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezapratickaa&show_icons=true&theme=dracula&hide_border=true&title_color=22D3EE&icon_color=22D3EE" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezapratickaa&layout=compact&theme=dracula&hide_border=true&title_color=22D3EE" height="150" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rezapratickaa&theme=dracula&hide_border=true&stroke=22D3EE" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+- 🚀 Specialized in **modern web technologies**.
+- 🛠 Building responsive and scalable applications.
+- 🎨 Passionate about **UX/UI** and clean architecture.
+- 📬 Feel free to reach out via socials below!
 
 ---
 
@@ -61,6 +61,6 @@
 
 <br/>
 
-<p align="center">
-  🚀 Building modern, scalable & high-performance web applications
-</p>
+<div align="center">
+  <img src="https://hits.dwyl.com/rezapratickaa/rezapratickaa.svg?style=for-the-badge&color=22D3EE" alt="Hits" />
+</div>
