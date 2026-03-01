@@ -13,7 +13,14 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rezapratickaa&theme=dracula&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+### 📈 GitHub Statistics
 <div align="center">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rezapratickaa&show_icons=true&theme=dracula&hide_border=true&title_color=22D3EE&icon_color=22D3EE" height="170" alt="Stats" />
@@ -57,7 +64,15 @@
 
 <br/>
 
+---
+
+### 🎮 Contribution Games
 <div align="center">
-  <h3>� Pacman Contributions</h3>
+  <h4>👾 Pacman Mode</h3>
   <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
+  
+  <br/><br/>
+  
+  <h4>🐍 Snake Mode</h3>
+  <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
