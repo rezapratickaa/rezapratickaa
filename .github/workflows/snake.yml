@@ -17,6 +17,10 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      # Create dist directory to avoid permission issues
+      - name: create dist directory
+        run: mkdir -p dist
+
       # 1. Generate Snake Animation
       - name: generate snake
         uses: Platane/snk@v3
@@ -25,12 +29,12 @@ jobs:
           outputs: |
             dist/snake-dark.svg?palette=github-dark
         
-      # 2. Generate Pacman Animation with Hardcoded Dark Theme
+      # 2. Generate Pacman Animation
+      # Note: This action doesn't support 'theme' input according to logs
       - name: generate pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: github-dark-modern
           
       # 3. Push outputs to 'output' branch
       - name: push outputs to branch
