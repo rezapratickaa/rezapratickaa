@@ -13,13 +13,6 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 Specialized in **modern web technologies**.
-- 🛠 Building responsive and scalable applications.
-- 🎨 Passionate about **UX/UI** and clean architecture.
-
----
-
 ### 📊 GitHub Statistics
 <div align="center">
   <p align="center">
@@ -41,7 +34,13 @@
 
 ---
 
-### 📬 Contact Me
+### 👨‍💻 About Me
+- 🚀 Specialized in **modern web technologies**.
+- 🛠 Building responsive and scalable applications.
+- 🎨 Passionate about **UX/UI** and clean architecture.
+
+---
+
 <div align="center">
   <a href="https://linkedin.com/in/rezapratickaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
