@@ -2,17 +2,21 @@
   <h1>Hi 👋, I'm Moch Reza Practika</h1>
   <p><i>Building modern, scalable & high-performance web applications</i></p>
 
+  <img src="https://hits.dwyl.com/rezapratickaa/rezapratickaa.svg?style=for-the-badge&color=22D3EE" alt="Hits" />
+
+  <br/><br/>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Engineer;Next.js+%7C+TypeScript;UI%2FUX+Enthusiast;Clean+Code+Practitioner" />
 </div>
 
 <br/>
 
-### � Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+---
 
-<br/>
+### 👨‍💻 About Me
+- 🚀 Specialized in **modern web technologies**.
+- 🛠 Building responsive and scalable applications.
+- 🎨 Passionate about **UX/UI** and clean architecture.
 
 ---
 
@@ -30,21 +34,14 @@
 
 ---
 
-### � Tech Stack
+### 🛠 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,php,mysql,figma,git,vscode,tailwind,laravel,bootstrap&theme=dark" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 Specialized in **modern web technologies**.
-- 🛠 Building responsive and scalable applications.
-- 🎨 Passionate about **UX/UI** and clean architecture.
-- 📬 Feel free to reach out via socials below!
-
----
-
+### 📬 Contact Me
 <div align="center">
   <a href="https://linkedin.com/in/rezapratickaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -62,5 +59,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://hits.dwyl.com/rezapratickaa/rezapratickaa.svg?style=for-the-badge&color=22D3EE" alt="Hits" />
+  <h3>� Pacman Contributions</h3>
+  <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/pacman-contribution-graph.svg" alt="Pacman Animation" />
 </div>
