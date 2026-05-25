@@ -66,11 +66,7 @@
 
 ### 🎮 Contribution Games
 <div align="center">
-  <h4>👾 Pacman Mode</h3>
   <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
-  
   <br/><br/>
-  
-  <h4>🐍 Snake Mode</h3>
   <img src="https://raw.githubusercontent.com/rezapratickaa/rezapratickaa/output/snake-dark.svg" alt="Snake Animation" />
 </div>
